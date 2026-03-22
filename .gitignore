@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/jarvis/node_modules/
+
+# Environment Variables
+.env
+backend/.env
+frontend/jarvis/.env
+
+# Build outputs
+dist/
+build/
+.vscode/
+
+# Logs
+*.log
+error.log
+backend/error.log
+
+# OS files
+.DS_Store
+Thumbs.db
